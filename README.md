@@ -2,13 +2,13 @@
 
 
 ## 1주차
-<img width="" height="" src="./png/gang.jfif"></img>
+<img width="50" height="50" src="./png/gang.jfif"></img>
 
 ## 2주차 
-# 2주차 과제
- 
-<img width="" height="" src="./png/Android_1.PNG"></img>
 
-  
-## 추가 가능
-### 추추가가 가가능능
+<img width="50" height="50" src="./png/Android_1.PNG"></img>
+
+## 3주차
+<img width="50" height="50" src="./png/Android_2.PNG"></img>
+<img width="50" height="50" src="./png/Android_3.PNG"></img>
+
