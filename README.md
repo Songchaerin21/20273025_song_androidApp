@@ -2,10 +2,10 @@
 
 
 ## 1주차
-
+<img width="" height="" src="./png/gang.jfif"></img>
 ## 2주차 
 # 2주차 과제
-<img width="" height="" src="./png/gang.jfif"></img>
+ 
 
   
 ## 추가 가능
