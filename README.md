@@ -19,10 +19,14 @@
 
 
 ## 6주차
-<img width="" height="" src="./png/Android_6-1.PNG"></img>
-<img width="" height="" src="./png/Android_6-2.PNG"></img>
-<img width="" height="" src="./png/Android_6-3.PNG"></img>
-<img width="" height="" src="./png/Android_6-4.PNG"></img>
+<img width="50" height="50" src="./png/Android_6-1.PNG"></img>
+<img width="50" height="50" src="./png/Android_6-2.PNG"></img>
+<img width="50" height="50" src="./png/Android_6-3.PNG"></img>
+<img width="50" height="50" src="./png/Android_6-4.PNG"></img>
+
+
+## 9주차
+<img width="" height="" src="./png/Android_9.PNG"></img>
 
 
 
