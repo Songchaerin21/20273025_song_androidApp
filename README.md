@@ -26,7 +26,7 @@
 
 
 ## 9주차
-<img width="" height="" src="./png/Android_9.PNG"></img>
+<img width="50" height="50" src="./png/Android_9.PNG"></img>
 
 
 
